@@ -1,9 +1,9 @@
 [
   {
     "platform": "android",
-    "versionName": "0.5.0",
-    "versionCode": 5000000,
-    "changelog" : "新增：实时测速\n优化：改进了部分界面的显示效果",
-    "downloadUrl": "https://gh-proxy.org/https://github.com/Robotxm/SharyouRelease/releases/download/0.5.0/Sharyou_0.5.0.apk"
+    "versionName": "0.6.0",
+    "versionCode": 6000000,
+    "changelog" : "新增：实时测速支持显示定位\n新增：车站、车次和日期支持记忆历史选择\n新增：区间、车站、车次查询结果列表页支持快速切换日期\n优化：改进了部分界面和数据展示的布局和样式",
+    "downloadUrl": "https://gh-proxy.org/https://github.com/Robotxm/SharyouRelease/releases/download/0.6.0/Sharyou_0.6.0.apk"
   }
 ]
