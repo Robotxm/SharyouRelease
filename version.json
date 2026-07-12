@@ -1,9 +1,9 @@
 [
   {
     "platform": "android",
-    "versionName": "0.7.0",
-    "versionCode": 7000000,
-    "changelog" : "新增：“查询车站信息”支持展示部分车站的交通方式",
-    "downloadUrl": "https://gh-proxy.org/https://github.com/Robotxm/SharyouRelease/releases/download/0.7.0/Sharyou_0.7.0.apk"
+    "versionName": "0.8.0",
+    "versionCode": 8000000,
+    "changelog" : "新增：中转查询\n优化：全新界面设计",
+    "downloadUrl": "https://gh-proxy.org/https://github.com/Robotxm/SharyouRelease/releases/download/0.8.0/Sharyou_0.8.0.apk"
   }
 ]
