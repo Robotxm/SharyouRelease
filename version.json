@@ -1,9 +1,9 @@
 [
   {
     "platform": "android",
-    "versionName": "0.8.1",
-    "versionCode": 8010000,
-    "changelog" : "新增：中转查询\n优化：全新界面设计",
-    "downloadUrl": "https://gh-proxy.org/https://github.com/Robotxm/SharyouRelease/releases/download/0.8.1/Sharyou_0.8.1.apk"
+    "versionName": "0.8.2",
+    "versionCode": 8020000,
+    "changelog" : "优化：跟进新版车次编排",
+    "downloadUrl": "https://gh-proxy.org/https://github.com/Robotxm/SharyouRelease/releases/download/0.8.2/Sharyou_0.8.2.apk"
   }
 ]
